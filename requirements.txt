@@ -1,5 +1,3 @@
 line-bot-sdk
 flask
-openai
 gunicorn
-azure-ai-language-questionanswering
